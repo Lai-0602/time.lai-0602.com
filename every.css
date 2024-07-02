@@ -1,0 +1,37 @@
+h1, h2, h3, h4, h5, h6 {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    background-color: #ED5565;
+    font-family: Lilita One;
+  }
+
+h2 {
+    background-color: #FC6E51;
+}
+
+h3 {
+    background-color: #FFCE54;
+}
+
+h5 {
+    background-color: #4FC1E9; 
+}
+
+h6 {
+    background-color: #AC92EC;
+}
+
+.nav-left {
+
+}
+
+.nav-right {
+
+}
+
+.footer {
+    
+}
